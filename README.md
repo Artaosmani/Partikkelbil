@@ -9,4 +9,4 @@ Manuell styring skjer via tastatur
 Servomotoren styrer en partikkelsensor for å kunne måle i ulike høyder
 Matlab er brukt for å visualsere dataen i sanntid. Dataene blir vist i et 3D rom med høye spiker der luften har mest urene partikkler.
 
-![Uploading image.png…]()
+
